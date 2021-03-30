@@ -1,0 +1,73 @@
+1616872716560	geckodriver	INFO	Listening on 127.0.0.1:44601
+1616872717560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIF6J3W"
+ExceptionHandler::GenerateDump cloned child 372691
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616872725226	geckodriver	INFO	Listening on 127.0.0.1:48353
+1616872725234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL1fLw4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616872728504	Marionette	INFO	Listening on port 45023
+1616872728578	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1616872744727	Marionette	INFO	Stopped listening on port 45023
+1616916738777	geckodriver	INFO	Listening on 127.0.0.1:43381
+1616916739775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWG9Tp"
+ExceptionHandler::GenerateDump cloned child 492947ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1616916753140	geckodriver	INFO	Listening on 127.0.0.1:40935
+1616916753147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5BZOtT"
+ExceptionHandler::GenerateDump cloned child 493167
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616916767807	geckodriver	INFO	Listening on 127.0.0.1:38907
+1616916767814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOEdTOM"
+ExceptionHandler::GenerateDump cloned child 493242
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616916820132	geckodriver	INFO	Listening on 127.0.0.1:53641
+1616916820139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegFKPpL"
+ExceptionHandler::GenerateDump cloned child 493536
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616916930726	geckodriver	INFO	Listening on 127.0.0.1:46981
+1616916930732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3QR6kk"
+ExceptionHandler::GenerateDump cloned child 493896ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1616916971704	geckodriver	INFO	Listening on 127.0.0.1:59749
+1616916971711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledufRAf"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+494155
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1616917001851	geckodriver	INFO	Listening on 127.0.0.1:37203
+1616917001858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei31zHA"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+494413
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1616917010275	geckodriver	INFO	Listening on 127.0.0.1:34575
+1616917010282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileND6vBE"
+ExceptionHandler::GenerateDump cloned child 494475
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616917107261	geckodriver	INFO	Listening on 127.0.0.1:56395
+1616917108271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexOEIbH"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+494820
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1616917392198	geckodriver	INFO	Listening on 127.0.0.1:38129
+1616917392205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOCsO9h"
+ExceptionHandler::GenerateDump cloned child 496065ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1616917403175	geckodriver	INFO	Listening on 127.0.0.1:58583
+1616917403182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1qZFp8"
+ExceptionHandler::GenerateDump cloned child 496132
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1616917674450	geckodriver	INFO	Listening on 127.0.0.1:45075
+1616917674457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelZvEcy"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+497589
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
