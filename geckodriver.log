@@ -1,5 +1,0 @@
-1617157805178	geckodriver	INFO	Listening on 127.0.0.1:45057
-1617157806174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileitbUvP"
-ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
-473156
-ExceptionHandler::SendContinueSignalToChild sent continue signal to child

@@ -9,3 +9,5 @@
 .history/
 
 .env
+geckodriver.log
+__pycache__/
