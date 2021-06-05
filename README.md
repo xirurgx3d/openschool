@@ -1,6 +1,6 @@
 # OpenSchool
 
 **О проекте:**
-[Читать](https://grandcore.org/#/ru/2.3-openschool/openschool) на сайте фонда.
+[Читать](https://grandcore.org/#/ru/projects/openschool) на сайте фонда.
 
-Ниже надо написать как поднять Docker =)
+Ниже надо написать как поднять приложение в Docker =)
