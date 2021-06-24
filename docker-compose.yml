@@ -1,1 +1,16 @@
-# Файл и правда пустой
+version: "3.9"
+
+services:
+    article:
+        image: docker/articles
+        build: ./apps/articles
+        container_name: articles
+        volumes:
+            - ./apps/articles/src:/usr/src/app/
+            - ./apps/articles/node_modules:/usr/src/app/node_modules
+        networks:
+            - micro
+
+networks:
+  micro:
+    driver: bridge        
